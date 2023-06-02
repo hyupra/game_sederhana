@@ -1,0 +1,21 @@
+#game-container {
+    position: relative;
+    width: 1100px;
+    height: 400px;
+    border: 1px solid black;
+  }
+  
+  #player, #target {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+  }
+  
+  #player {
+    background-color: blue;
+  }
+  
+  #target {
+    background-color: red;
+  }
+  
